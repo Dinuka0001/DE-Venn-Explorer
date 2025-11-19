@@ -5,6 +5,16 @@ Developed by **Dinuka Adasooriya**, Yonsei University College of Dentistry, Seou
 
 ---
 
+## 🔗 Access
+
+- **GitHub repository** (source code, issues, and development):  
+  https://github.com/Dinuka0001/DE_Venn_Explorer.git
+
+- **Online app (Posit Cloud)** – run DE Venn Explorer directly in your browser:  
+  https://dinuka-de-venn-explorer.share.connect.posit.cloud
+
+---
+
 ## ✨ Features
 
 - Analyze **2–5 datasets** in one session
