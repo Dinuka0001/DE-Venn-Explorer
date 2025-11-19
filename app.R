@@ -312,6 +312,24 @@ For 4–5 sets: cat.cex / cex (VennDiagram)."),
           ),
           p(strong("Email:"), "dinuka90@yuhs.ac"),
           br(),
+          h4("Availability"),
+          p(
+            "Source code:",
+            tags$a(
+              href = "https://github.com/Dinuka0001/DE_Venn_Explorer.git",
+              "GitHub repository",
+              target = "_blank"
+            )
+          ),
+          p(
+            "Online app:",
+            tags$a(
+              href = "https://dinuka-de-venn-explorer.share.connect.posit.cloud",
+              "DE Venn Explorer on Posit Cloud",
+              target = "_blank"
+            )
+          ),
+          br(),
           h4("R packages used"),
           verbatimTextOutput("references")
         )
