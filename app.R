@@ -22,9 +22,6 @@ library(grid)          # For grid.draw in VennDiagram
 # Set maximum file upload size to 50MB
 options(shiny.maxRequestSize = 50 * 1024^2)
 
-# Set maximum file upload size to 50MB
-options(shiny.maxRequestSize = 50 * 1024^2)
-
 # ---- UI ----
 ui <- fluidPage(
   titlePanel("DE Venn Explorer"),
@@ -1236,3 +1233,4 @@ server <- function(input, output, session) {
 
 
 shinyApp(ui = ui, server = server)
+
